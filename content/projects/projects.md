@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
     
   [[content.filter_button]]
-    name = "funded project"
+    name = "Funded project"
     tag = "funded project"
   
   [[content.filter_button]]
