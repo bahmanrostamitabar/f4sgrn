@@ -13,10 +13,13 @@ social:
   link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/config-i1
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/iSvetunkov
+  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/buket-cilali-98b167a0/
 
   
 # Organizational groups that you belong to (for People widget)

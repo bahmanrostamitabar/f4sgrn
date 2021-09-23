@@ -2,21 +2,24 @@
 name: Hussain Syed Kazmi
 role: Hussain Syed Kazmi
 organizations:
-- name: University 
-  url: ""
+- name: KU Leuven
+  url: "https://www.kuleuven.be/wieiswie/en/person/00107015"
 social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:hussainsyed.kazmi@kuleuven.be"
 - icon: home
   icon_pack: fas
-  link: https://forecasting.svetunkov.ru/en/
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/config-i1
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/iSvetunkov
+  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hussain-kazmi/?originalSubdomain=be
 
   
 # Organizational groups that you belong to (for People widget)

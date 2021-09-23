@@ -10,14 +10,16 @@ social:
   link: "mailto:i.svetunkov@lancaster.ac.uk"
 - icon: home
   icon_pack: fas
-  link: https://forecasting.svetunkov.ru/en/
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/config-i1
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/iSvetunkov
-
+  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mingzhe-shi-0a22451b9/
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
