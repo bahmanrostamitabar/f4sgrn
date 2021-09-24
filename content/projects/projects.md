@@ -25,25 +25,25 @@ subtitle = ""
     name = "All"
     tag = "*"
     
-  [[content.filter_button]]
-    name = "Funded project"
-    tag = "funded project"
+#  [[content.filter_button]]
+#    name = "Funded project"
+#    tag = "funded project"
   
-  [[content.filter_button]]
-    name = "Master Student project"
-    tag = "master student project"
+#  [[content.filter_button]]
+#    name = "Master Student project"
+#    tag = "master student project"
     
-  [[content.filter_button]]
-    name = "PhD Student project"
-    tag = "phd student project"
+#  [[content.filter_button]]
+#    name = "PhD Student project"
+#    tag = "phd student project"
 
-  [[content.filter_button]]
-    name = "Workshop"
-    tag = "workshop"
+#  [[content.filter_button]]
+#    name = "Workshop"
+#    tag = "workshop"
     
-  [[content.filter_button]]
-    name = "Book"
-    tag = "book"
+#  [[content.filter_button]]
+#    name = "Book"
+#    tag = "book"
 
     
 [design]

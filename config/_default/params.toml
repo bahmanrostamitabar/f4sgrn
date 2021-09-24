@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A blog and portfolio by Bahman Rostami-Tabar"
+description = "F4SG Research network"
 
 ############################
 ## Site Features
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "brostamit@gmail.com"
+email = "f/meqvnwog"
 phone = ""
 
 # Address
@@ -104,12 +104,13 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM US", link = "https://twitter.com/Bahman_R_T"},
+contact_links = []
+#contact_links = [
+  #{icon = "twitter", icon_pack = "fab", name = "DM US", link = "https://twitter.com/Bahman_R_T"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Ask for help on RStudio Community", link = "https://community.rstudio.com/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+#  ]
 
 ############################
 ## Social
@@ -119,7 +120,7 @@ contact_links = [
 sharing_image = "pom-card.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Bahman_R_T"
+#twitter = "Bahman_R_T"
 
 ############################
 ## Regional Settings
@@ -266,6 +267,5 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-122837305-1"
+  google_analytics = ""
   google_tag_manager = ""
-  

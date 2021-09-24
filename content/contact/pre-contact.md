@@ -9,7 +9,7 @@ active = true # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Get in touch"
-subtitle = "This form is for contacting us about proposing projects, proposing topics for webinars and workshops"
+subtitle = "This form is for contacting us about proposing student and research projects, Topics for webinars and panel discussion, Special Issues in journals"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,8 +29,9 @@ subtitle = "This form is for contacting us about proposing projects, proposing t
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Designlovefest_SANTANA_dress-your-tech_01_01.jpg"  # Name of image in `static/img/`.
+  image = "headers/daisy-pink.jpg"  # Name of image in `static/img/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,5 +47,3 @@ subtitle = "This form is for contacting us about proposing projects, proposing t
  # CSS class.
  css_class = ""
 +++
-
-[Become a member](https://docs.google.com/forms/d/e/1FAIpQLScvwsSS7kc5w0BJ7Qhfrv4Hvy2WSSM5o641yROhoXtzN9nb3w/viewform)

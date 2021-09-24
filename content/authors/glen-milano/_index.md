@@ -1,9 +1,9 @@
 ---
-name: Bahman Rostami-Tabar
-role: Bahman Rostami-Tabar 
+name: Glenn Milano
+role: Glenn Milano 
 # Role apprears belose the photo
 organizations:
-- name: Cardiff University 
+- name: U.S. Agency for International Development
   url: "https://www.cardiff.ac.uk/people/view/598316-rostami-tabar-bahman"
 social:
 - icon: envelope
@@ -20,12 +20,12 @@ social:
   link: https://twitter.com/bahman_R_T
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/bahman-rostami-tabar-1046171a/
+  link: https://www.linkedin.com/in/milano-glenn/
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Network Coordinators
+- Practitioners
 
 ---
 

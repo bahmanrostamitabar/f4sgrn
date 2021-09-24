@@ -1,5 +1,5 @@
 ---
-title: Call for Papers in F4SG - International Journal of Forecasting
+title: Call for Papers on Forecasting for Social Good - International Journal of Forecasting
 author: Bahman Rostami-Tabar
 date: '2021-09-01'
 slug: CFP-IJF
@@ -13,48 +13,40 @@ tags:
 output:
   blogdown::html_page:
     toc: true
-    number_sections: true
+    number_sections: false
     toc_depth: 1
 ---
 
+Forecasting for Social Good (F4SG) aims to explore and expose how (where) forecasting can create positive societal benefits. It aims to tackle real problems in any type of organisations that prioritised the wellbeing of people and the society as a whole towards achieving the Sustainable Development Goals prioritising social foundations and ecological ceilling. It helps managers in domains such as health, humanitarian, public and third sector to improve their practices in using forecasting to support the decision-making system.
+Evidence from the first and second workshops on [F4SG](https://www.f4sg.org/services/workshop/) indicated that less attention has been given to research on forecasting for social good in comparison to other areas of forecasting. To address this issue, we organise a special issue of the IJF. The purpose of the special issue is to attract high quality papers that are concerned with forecasting for social good. Both papers on academic forecasting research and applications in forecasting practice are welcome. Areas of interest include, but are not limited to:
 
-We are now accepting abstracts for oral and poster presentation at the [2^nd^ International Workshop on Forecasting for Social Good](https://www.f4sg.org) sponsored by the International Institute of Forecasters. Both abstracts on academic forecasting research and applications in forecasting practice are welcome. If you are interested, submit your in [Easychair](https://easychair.org/my/conference?conf=f4sg#).
+- Health and healthcare
+- Humanitarian operations
+- Disaster relief
+- Climate change
+- Environment and Wildlife
+- Sustainability
+- Education
+- Public welfare
+- Fraud, collusion, and corruption
+- Government
+- Public safety and security
+- Poverty & Inequality
+- Social services
+- Wellbeing
 
-For poster presentation, please upload your poster in PDF format in addition to the abstract. 
- 
-If you would like to organise a special session or a panel, please contact: Bahman Rostami-Tabar (<rostami-tabarB@cardiff.ac.uk>).
+*Submission deadline : 31 December 2021*
 
 
-# Important dates:
+**Guidelines**
 
-- Submission deadline: March 20, 2020 
-- Notification to authors: March 27, 2020
-- Registration deadline: April 15, 2020
+- [Submit your paper](https://www.editorialmanager.com/ijf/default.aspx) 
 
-# Publications:
+- [Instructions for authors](https://pierrepinson.com/IJF/IJFauthorguidelines.pdf)
 
-Authors of selected papers will be invited to submit full papers to be published in the following journals:
+All papers will follow IJF’s double-blind refereeing process. For further information about the Special Issue, please contact the guest editors:
 
-- International Journal of forecasting
-A call for papers will be issued at a later date by both journals.
-
-# Keynote speakers:
-
-- [Prof. Spyros Makridakis](https://scholar.google.com/citations?user=hPpgXPMAAAAJ&hl=en), University of Nicosia
-- [Prof. Laura Albert](https://directory.engr.wisc.edu/ie/Faculty/Albert_Laura/), University of Wisconsin Madison
-- [Dr. Nicholas G. Reich](https://reichlab.io/), UMass Amherst
-- [Dr. Leonardo Milano](https://centre.humdata.org/), Centre for Humanitarian Data, United Nations Office for the Coordination of Humanitarian Affairs (OCHA)
-
-# Organisers:
-
-General chairs
-
-- Dr. Bahman Rostami-Tabar (<rostami-tabarb@cardiff.ac.uk>)
-- Dr. Michael Porter (<mdp2u@virginia.edu>)
-- Prof. Zied Babai (<mohamed-zied.babai@kedgebs.com>)
-
-# About FSG workshop
-
-Following up on a successful workshop in Cardiff, UK and [International Journal of Forecasting's special issue on Forecasting for Social Good](https://forecasters.org/blog/2018/04/12/ijf-forecasting-for-social-good/) we are pleased to announce the 2nd biannual Workshop on Forecasting for Social Good in 11-12 June 2020 at Kedge Business School in Bordeaux, France. 
-
-While there is a growing recognition by agencies, organizations, and governments that data-driven decision-making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice. Furthermore, the research on forecasting for social good has been relatively slow and sporadic, both in academic publications and practical applications. The goal of this workshop is thus to improve the research and practice in issues related to forecasting for social good by: facilitating interactions between practitioners, researchers, and policy makers to develop a cohesive and sustainable network of international collaborations with a focus on issues related to forecasting for social good; promoting the development of new methodology and metrics to address the specific challenges related to forecasting for social good; providing professional development to policy makers; gaining a better understanding of the available data, challenges in data acquisition, and the uncertainty present in the data used to produce forecasts; and, addressing the ethical issues related to the use of forecasting methods for problems that impact society.
+- [Dr. Bahman Rostami-Tabar](https://www.bahmanrt.com/), Cardiff University, UK
+- [Dr. Michael D. Porter](https://engineering.virginia.edu/faculty/michael-d-porter), University of Virginia, USA
+- [Prof. Zied Babai](https://student.kedge.edu/faculty-directory/mohamed-zied-babai), Kedge Business School, France
+- [Prof. Pierre Pinson](https://pierrepinson.com/), IJF Editor in Chief, Technical University of Denmark
