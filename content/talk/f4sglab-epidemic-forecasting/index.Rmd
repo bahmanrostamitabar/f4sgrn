@@ -8,7 +8,7 @@ event_url: "http://localhost:4321/talks/"
 #url_video: ""
 
 location: Virtual
-summary: "A training on Epidemic forecasting research and practice"
+summary: "A workshop on Epidemic forecasting research and practice"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
