@@ -1,6 +1,5 @@
 ---
 title: Data-driven Computational Epidemic Forecasting (with applications in R)
-
 draft: false
 event: "F4SG Learning Labs"
 event_url: "http://localhost:4321/talks/"
@@ -22,7 +21,7 @@ categories:
 tags:
   - Epidemic
   - forecasting
-lastmod: '2021-11-30T11:03:00'
+lastmod: '2021-11-07T18:45:00'
 featured: no
 image:
   caption: ''
@@ -30,8 +29,6 @@ image:
   preview_only: no
 projects: []
 ---
-
-A training on Epidemic forecasting research and practice
 
 ## Date/time/location
 
