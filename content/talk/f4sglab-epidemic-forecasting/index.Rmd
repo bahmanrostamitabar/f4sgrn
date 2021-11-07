@@ -31,6 +31,7 @@ image:
 projects: []
 ---
 
+A workshop on Epidemic forecasting research and practice
 
 ## Date/time/location
 
@@ -46,7 +47,7 @@ You need to register to receive the Zoom link and attend the workshop by Friday 
 
 ## Instructors
 
-- [Alexander Rodriguez](https://www.cc.gatech.edu/~acastillo41/), 
+- [Alexander Rodriguez](https://www.cc.gatech.edu/~acastillo41/) 
 - [Aditya B. Prakash](https://www.cc.gatech.edu/~badityap/)
 - [Harshavardhan Kamarthi](https://www.harsha-pk.com/)
 
