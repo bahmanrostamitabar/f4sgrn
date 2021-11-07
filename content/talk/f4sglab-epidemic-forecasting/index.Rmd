@@ -1,5 +1,5 @@
 ---
-title: Data-driven Computational Epidemic Forecasting
+title: Data-driven Computational Epidemic Forecasting (with applications in R)
 
 draft: false
 event: "F4SG Learning Labs"
@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-A workshop on Epidemic forecasting research and practice
+A workshop on Epidemic forecasting research and practice (with applications in R)
 
 ## Date/time/location
 
