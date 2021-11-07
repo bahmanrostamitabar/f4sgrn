@@ -1,28 +1,28 @@
 ---
-title: Forecasting for Social Good
+title: Data-driven Computational Epidemic Forecasting
 
 draft: false
-event: "41st International Symposium on Forecasting"
-event_url: "https://isf.forecasters.org/"
-url_slides: "/slides/isf2021.html"
-url_video: ""
+event: "F4SG Learning Labs"
+event_url: "http://localhost:4321/talks/"
+#url_slides: "/slides/isf2021.html"
+#url_video: ""
 
 location: Virtual
-summary: "I provide a summary of Forecasting for Social Good initiatives, I elaborate on what is forecasting for social good,  and what attributes makes a forecasting process FGSG."
+summary: "A training on Epidemic forecasting research and practice"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-30T13:40:00Z"
-date_end: "2021-06-30T14:00:00Z"
+date: "2021-12-01T09:00:00"
+date_end: "2021-12-01T13:00:00"
 all_day: false
-publishdate: "2021-06-29T11:30:00"
+publishdate: "2021-11-05T10:30:00"
 
 categories:
-  - Conference
+  - training
 tags:
-  - forecasting for social good
+  - Epidemic
   - forecasting
-lastmod: '2021-06-30T10:30:00'
+lastmod: '2021-11-30T11:03:00'
 featured: no
 image:
   caption: ''
@@ -31,5 +31,91 @@ image:
 projects: []
 ---
 
-Forecasting plays a critical role in the development of organisational business strategies. Despite a considerable body of research in the area of forecasting, the focus has largely been on the financial and economic outcomes of the forecasting process as opposed to societal benefits. Our motivation in this study is to promote the latter, with a view to using the forecasting process to advance social and environmental objectives such as equality, social justice and sustainability. We refer to such forecasting practices as Forecasting for Social Good (FSG) where the benefits to society and the environment take precedence over economic and financial outcomes. We conceptualise FSG and discuss its scope and boundaries in the context of the "Doughnut theory". We present some key attributes that qualify a forecasting process as FSG: it is concerned with a real problem, it is focused on advancing social and environmental goals and prioritises these over conventional measures of economic success, and it has a broad societal impact. We also position FSG in the wider literature on forecasting and social good practices. We propose an FSG maturity framework as the means to engage academics and practitioners with research in this area. Finally, we highlight that FSG: (i) cannot be distilled to a prescriptive set of guidelines, (ii) is scalable, and (iii) has the potential to make significant contributions to advancing social objectives.
 
+## Date/time/location
+
+- **Date:** Wednesday 01 December 2021
+- **Time:** 09.00-13.00 [Eastern Time](https://time.is/ET), 14.00-18.00 (London)
+- **Location:** Virtual/Zoom
+
+## Register for free
+
+You need to register to receive the Zoom link and attend the workshop by Friday 26 November 2021.
+
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSdF2waMn37ACunuo3g9LnKyRk4pLTRhPTfUG4Xyu9ExMUlTVQ/viewform)
+
+## Instructors
+
+- [Alexander Rodriguez](https://www.cc.gatech.edu/~acastillo41/), 
+- [Aditya B. Prakash](https://www.cc.gatech.edu/~badityap/)
+- [Harshavardhan Kamarthi](https://www.harsha-pk.com/)
+
+School of Computational Science and Engineering, College of Computing, Georgia Institute of Technology
+ 
+
+## Who is the training for?
+
+- Anyone who is interested in epidemic forecasting research and practice, from recent machine learning innovations to real-time forecasting challenges;
+
+- A decision maker who wants to learn how forecasts are used in decision making and the tradeoffs of modeling approaches;
+
+- An academic or graduate student that wants to expand their understanding of the state of the art;
+
+- An epidemiologist who wants to complement their knowledge with a data-driven perspective;
+
+## What participants will learn in the training?
+ 
+Participants will be able to:
+
+- Identify modeling approaches and their use in practice.
+Distinguish a diverse set of challenges in real-time forecasting;
+
+- Recognize research directions;
+
+- Leverage software for modeling, data acquisition and processing, and evaluation;
+
+
+## Prerequisites
+
+- Basic knowledge of R or a high-level programming language.
+
+- Basic knowledge of statistics and statistical modeling
+ 
+ 
+## Outline (4hrs):
+
+1. Epidemic forecasting (0.5 hr)
+
+    - Targets of interest
+    - Datasets
+    - Evaluation
+ 
+2. Mechanistic models (1 hrs)
+
+    - Introduce basic concepts
+    - Mass-action models (Coding example with R)
+    - Metapopulation
+    - Agent-based models
+ 
+3. Statistical models (1.5 hrs)
+
+    - Google Flu Trends
+    - ARIMA (Code example with R)
+    - Density estimation
+    - Deep learning (Coding example with R, compare with ARIMA)
+    - State of the art research
+    - Demos
+ 
+4. Hybrid models (0.5 hrs)
+
+    - Discrepancy modeling
+    - Ensembles (COVID Forecast ensemble)
+ 
+5. Epidemic forecasting on the ground (0.5 hrs)
+
+    - Real time experiences
+    - CDC initiatives
+    - Decision making
+
+
+**Join Forecasting for Social Good email list  to stay informed about upcoming events  (http://eepurl.com/hMFA-9)**

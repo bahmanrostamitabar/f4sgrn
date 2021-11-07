@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = ""
-subtitle = "Talks"
+title = "F4SG Learning Labs"
+subtitle = "F4SG Learning Labs"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,3 +67,5 @@ subtitle = "Talks"
  # CSS class.
  css_class = ""
 +++
+
+F4SG Learning Labs are educational series that provide learners with practical guidance on variety of technical skills that could be used in F4SG.
