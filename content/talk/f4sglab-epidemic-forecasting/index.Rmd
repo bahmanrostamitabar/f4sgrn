@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-A workshop on Epidemic forecasting research and practice (with applications in R)
+A training on Epidemic forecasting research and practice
 
 ## Date/time/location
 
