@@ -1,0 +1,91 @@
+---
+title: Forecasting site electricity demand to decarbonize the built environment (with applications in Python)
+draft: false
+event: "F4SG Learning Labs"
+event_url: "https://f4sgrn.netlify.app/talks/"
+#url_slides: "/slides/isf2021.html"
+#url_video: ""
+
+location: Virtual
+summary: "Forecasting site electricity demand to decarbonize the built environment"
+
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2022-03-14T15:00:00"
+date_end: "2022-03-14T17:00:00"
+all_day: false
+publishdate: "2021-11-16T10:00:00"
+
+categories:
+  - training
+tags:
+  - electricity
+  - environment
+  - forecasting
+  - python
+lastmod: '2021-11-16T10:05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: 'center'
+  preview_only: no
+projects: []
+---
+
+## Date/time/location
+
+- **Date:** Monday 14 March 2022
+- **Time:** 15.00-17.00 [CET Time](https://time.is/CET), 14.00-16.00 (London)
+- **Location:** Virtual/Zoom
+
+## Register for free
+
+You need to register to receive the Zoom link and attend the workshop by Monday 7 March 2022.
+
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLScJvj2t7KHB35imK77TFdJYTYcjSBNCIGFMGgdcdCdq8uY8zA/viewform)
+
+## Instructors
+
+Dr. ir. Hussain Kazmi, ir. Attila Balint
+
+- [Hussain Kazmi, KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00107015) 
+- [Aditya B. Prakash, KU Leuven](https://www.esat.kuleuven.be/electa/research-assistants/00147582)
+
+ 
+## Who is the training for?
+
+* Anyone who is interested in electricity demand forecasting research and practice, from simple baseline methods to advanced machine learning techniques;
+ 
+* A decision maker who wants to learn how these forecasts can be used in decision making and the tradeoffs of modeling approaches;
+
+* An academic or graduate student that wants to expand their understanding of the state of the art with a hands-on session;
+
+* Practitioners in the field who are looking for ways to improve their data-driven forecasting.
+
+## What participants will learn in the training?
+ 
+Participants will be able to:
+
+* Identify modeling approaches and their use in practice;
+
+* Distinguish a diverse set of challenges in forecasting electricity demand at multiple scales and how these relate to decision making processes;
+
+* Recognize research directions and better identify numerous sources of open-source electricity datasets;
+
+* Leverage software for modeling, data acquisition and processing, and evaluation.
+
+
+## Prerequisites
+
+* Basic knowledge of Python or a high-level programming language.
+
+* Basic knowledge of statistics and statistical modeling
+ 
+ 
+## Outline (2hrs)
+
+TBD
+
+
+**[Join Forecasting for Social Good email list](http://eepurl.com/hMFA-9)  to stay informed about upcoming events  **
