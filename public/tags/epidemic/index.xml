@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epidemic | F4SG Research Network</title>
+    <link>/tags/epidemic/</link>
+      <atom:link href="/tags/epidemic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Epidemic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© F4SG Research Network 2022</copyright><lastBuildDate>Wed, 01 Dec 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/pom-card.png</url>
+      <title>Epidemic</title>
+      <link>/tags/epidemic/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven Computational Epidemic Forecasting (with applications in R)</title>
+      <link>/talk/f4sglab-epidemic-forecasting/</link>
+      <pubDate>Wed, 01 Dec 2021 09:00:00 +0000</pubDate>
+      <guid>/talk/f4sglab-epidemic-forecasting/</guid>
+      <description>
+&lt;script src=&#34;/talk/f4sglab-epidemic-forecasting/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;datetimelocation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Date/time/location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Wednesday 01 December 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 09.00-13.00 &lt;a href=&#34;https://time.is/ET&#34;&gt;Eastern Time&lt;/a&gt;, 14.00-18.00 (London)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Virtual/Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;register-for-free&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Register for free&lt;/h2&gt;
+&lt;p&gt;You need to register to receive the Zoom link and attend the workshop by Friday 26 November 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdF2waMn37ACunuo3g9LnKyRk4pLTRhPTfUG4Xyu9ExMUlTVQ/viewform&#34;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;instructors&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Instructors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cc.gatech.edu/~acastillo41/&#34;&gt;Alexander Rodriguez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cc.gatech.edu/~badityap/&#34;&gt;Aditya B. Prakash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.harsha-pk.com/&#34;&gt;Harshavardhan Kamarthi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;School of Computational Science and Engineering, College of Computing, Georgia Institute of Technology&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-is-the-training-for&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who is the training for?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anyone who is interested in epidemic forecasting research and practice, from recent machine learning innovations to real-time forecasting challenges;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A decision maker who wants to learn how forecasts are used in decision making and the tradeoffs of modeling approaches;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An academic or graduate student that wants to expand their understanding of the state of the art;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An epidemiologist who wants to complement their knowledge with a data-driven perspective;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-participants-will-learn-in-the-training&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What participants will learn in the training?&lt;/h2&gt;
+&lt;p&gt;Participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Identify modeling approaches and their use in practice.
+Distinguish a diverse set of challenges in real-time forecasting;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Recognize research directions;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Leverage software for modeling, data acquisition and processing, and evaluation;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of R or a high-level programming language.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of statistics and statistical modeling&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-4hrs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Outline (4hrs):&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Epidemic forecasting (0.5 hr)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Targets of interest&lt;/li&gt;
+&lt;li&gt;Datasets&lt;/li&gt;
+&lt;li&gt;Evaluation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mechanistic models (1 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce basic concepts&lt;/li&gt;
+&lt;li&gt;Mass-action models (Coding example with R)&lt;/li&gt;
+&lt;li&gt;Metapopulation&lt;/li&gt;
+&lt;li&gt;Agent-based models&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Statistical models (1.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Flu Trends&lt;/li&gt;
+&lt;li&gt;ARIMA (Code example with R)&lt;/li&gt;
+&lt;li&gt;Density estimation&lt;/li&gt;
+&lt;li&gt;Deep learning (Coding example with R, compare with ARIMA)&lt;/li&gt;
+&lt;li&gt;State of the art research&lt;/li&gt;
+&lt;li&gt;Demos&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hybrid models (0.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discrepancy modeling&lt;/li&gt;
+&lt;li&gt;Ensembles (COVID Forecast ensemble)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Epidemic forecasting on the ground (0.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Real time experiences&lt;/li&gt;
+&lt;li&gt;CDC initiatives&lt;/li&gt;
+&lt;li&gt;Decision making&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://eepurl.com/hMFA-9&#34;&gt;Join Forecasting for Social Good email list&lt;/a&gt; to stay informed about upcoming events &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

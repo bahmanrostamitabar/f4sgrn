@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electricity | F4SG Research Network</title>
+    <link>/tags/electricity/</link>
+      <atom:link href="/tags/electricity/index.xml" rel="self" type="application/rss+xml" />
+    <description>electricity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© F4SG Research Network 2022</copyright><lastBuildDate>Mon, 14 Mar 2022 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/pom-card.png</url>
+      <title>electricity</title>
+      <link>/tags/electricity/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting site electricity demand to decarbonize the built environment (with applications in Python)</title>
+      <link>/talk/forecasting-site-electricity-demand/</link>
+      <pubDate>Mon, 14 Mar 2022 15:00:00 +0000</pubDate>
+      <guid>/talk/forecasting-site-electricity-demand/</guid>
+      <description>
+&lt;script src=&#34;/talk/forecasting-site-electricity-demand/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;datetimelocation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Date/time/location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Monday 14 March 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 15.00-17.00 &lt;a href=&#34;https://time.is/CET&#34;&gt;CET Time&lt;/a&gt;, 14.00-16.00 (London)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Virtual/Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;register-for-free&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Register for free&lt;/h2&gt;
+&lt;p&gt;You need to register to receive the Zoom link and attend the workshop by Monday 7 March 2022.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScJvj2t7KHB35imK77TFdJYTYcjSBNCIGFMGgdcdCdq8uY8zA/viewform&#34;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;instructors&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Instructors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00107015&#34;&gt;Hussain Kazmi, KU Leuven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esat.kuleuven.be/electa/research-assistants/00147582&#34;&gt;Aditya B. Prakash, KU Leuven&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-is-the-training-for&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who is the training for?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anyone who is interested in electricity demand forecasting research and practice, from simple baseline methods to advanced machine learning techniques;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A decision maker who wants to learn how these forecasts can be used in decision making and the tradeoffs of modeling approaches;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An academic or graduate student that wants to expand their understanding of the state of the art with a hands-on session;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Practitioners in the field who are looking for ways to improve their data-driven forecasting.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-participants-will-learn-in-the-training&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What participants will learn in the training?&lt;/h2&gt;
+&lt;p&gt;Participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Identify modeling approaches and their use in practice;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Distinguish a diverse set of challenges in forecasting electricity demand at multiple scales and how these relate to decision making processes;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Recognize research directions and better identify numerous sources of open-source electricity datasets;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Leverage software for modeling, data acquisition and processing, and evaluation.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of Python or a high-level programming language.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of statistics and statistical modeling&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-2hrs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Outline (2hrs)&lt;/h2&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://eepurl.com/hMFA-9&#34;&gt;Join Forecasting for Social Good email list&lt;/a&gt; to stay informed about upcoming events &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F4SG Research Network</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>F4SG Research Network</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© F4SG Research Network 2022</copyright><lastBuildDate>Mon, 14 Mar 2022 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/pom-card.png</url>
+      <title>F4SG Research Network</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting site electricity demand to decarbonize the built environment (with applications in Python)</title>
+      <link>/talk/forecasting-site-electricity-demand/</link>
+      <pubDate>Mon, 14 Mar 2022 15:00:00 +0000</pubDate>
+      <guid>/talk/forecasting-site-electricity-demand/</guid>
+      <description>
+&lt;script src=&#34;/talk/forecasting-site-electricity-demand/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;datetimelocation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Date/time/location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Monday 14 March 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 15.00-17.00 &lt;a href=&#34;https://time.is/CET&#34;&gt;CET Time&lt;/a&gt;, 14.00-16.00 (London)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Virtual/Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;register-for-free&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Register for free&lt;/h2&gt;
+&lt;p&gt;You need to register to receive the Zoom link and attend the workshop by Monday 7 March 2022.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScJvj2t7KHB35imK77TFdJYTYcjSBNCIGFMGgdcdCdq8uY8zA/viewform&#34;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;instructors&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Instructors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kuleuven.be/wieiswie/en/person/00107015&#34;&gt;Hussain Kazmi, KU Leuven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esat.kuleuven.be/electa/research-assistants/00147582&#34;&gt;Aditya B. Prakash, KU Leuven&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-is-the-training-for&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who is the training for?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anyone who is interested in electricity demand forecasting research and practice, from simple baseline methods to advanced machine learning techniques;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A decision maker who wants to learn how these forecasts can be used in decision making and the tradeoffs of modeling approaches;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An academic or graduate student that wants to expand their understanding of the state of the art with a hands-on session;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Practitioners in the field who are looking for ways to improve their data-driven forecasting.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-participants-will-learn-in-the-training&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What participants will learn in the training?&lt;/h2&gt;
+&lt;p&gt;Participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Identify modeling approaches and their use in practice;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Distinguish a diverse set of challenges in forecasting electricity demand at multiple scales and how these relate to decision making processes;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Recognize research directions and better identify numerous sources of open-source electricity datasets;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Leverage software for modeling, data acquisition and processing, and evaluation.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of Python or a high-level programming language.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of statistics and statistical modeling&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-2hrs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Outline (2hrs)&lt;/h2&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://eepurl.com/hMFA-9&#34;&gt;Join Forecasting for Social Good email list&lt;/a&gt; to stay informed about upcoming events &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data-driven Computational Epidemic Forecasting (with applications in R)</title>
+      <link>/talk/f4sglab-epidemic-forecasting/</link>
+      <pubDate>Wed, 01 Dec 2021 09:00:00 +0000</pubDate>
+      <guid>/talk/f4sglab-epidemic-forecasting/</guid>
+      <description>
+&lt;script src=&#34;/talk/f4sglab-epidemic-forecasting/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;datetimelocation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Date/time/location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Wednesday 01 December 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 09.00-13.00 &lt;a href=&#34;https://time.is/ET&#34;&gt;Eastern Time&lt;/a&gt;, 14.00-18.00 (London)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Virtual/Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;register-for-free&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Register for free&lt;/h2&gt;
+&lt;p&gt;You need to register to receive the Zoom link and attend the workshop by Friday 26 November 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdF2waMn37ACunuo3g9LnKyRk4pLTRhPTfUG4Xyu9ExMUlTVQ/viewform&#34;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;instructors&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Instructors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cc.gatech.edu/~acastillo41/&#34;&gt;Alexander Rodriguez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cc.gatech.edu/~badityap/&#34;&gt;Aditya B. Prakash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.harsha-pk.com/&#34;&gt;Harshavardhan Kamarthi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;School of Computational Science and Engineering, College of Computing, Georgia Institute of Technology&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-is-the-training-for&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who is the training for?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anyone who is interested in epidemic forecasting research and practice, from recent machine learning innovations to real-time forecasting challenges;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A decision maker who wants to learn how forecasts are used in decision making and the tradeoffs of modeling approaches;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An academic or graduate student that wants to expand their understanding of the state of the art;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;An epidemiologist who wants to complement their knowledge with a data-driven perspective;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-participants-will-learn-in-the-training&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What participants will learn in the training?&lt;/h2&gt;
+&lt;p&gt;Participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Identify modeling approaches and their use in practice.
+Distinguish a diverse set of challenges in real-time forecasting;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Recognize research directions;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Leverage software for modeling, data acquisition and processing, and evaluation;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of R or a high-level programming language.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Basic knowledge of statistics and statistical modeling&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-4hrs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Outline (4hrs):&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Epidemic forecasting (0.5 hr)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Targets of interest&lt;/li&gt;
+&lt;li&gt;Datasets&lt;/li&gt;
+&lt;li&gt;Evaluation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Mechanistic models (1 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce basic concepts&lt;/li&gt;
+&lt;li&gt;Mass-action models (Coding example with R)&lt;/li&gt;
+&lt;li&gt;Metapopulation&lt;/li&gt;
+&lt;li&gt;Agent-based models&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Statistical models (1.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Flu Trends&lt;/li&gt;
+&lt;li&gt;ARIMA (Code example with R)&lt;/li&gt;
+&lt;li&gt;Density estimation&lt;/li&gt;
+&lt;li&gt;Deep learning (Coding example with R, compare with ARIMA)&lt;/li&gt;
+&lt;li&gt;State of the art research&lt;/li&gt;
+&lt;li&gt;Demos&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hybrid models (0.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discrepancy modeling&lt;/li&gt;
+&lt;li&gt;Ensembles (COVID Forecast ensemble)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Epidemic forecasting on the ground (0.5 hrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Real time experiences&lt;/li&gt;
+&lt;li&gt;CDC initiatives&lt;/li&gt;
+&lt;li&gt;Decision making&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://eepurl.com/hMFA-9&#34;&gt;Join Forecasting for Social Good email list&lt;/a&gt; to stay informed about upcoming events &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers on Forecasting for Social Good - International Journal of Forecasting</title>
+      <link>/post/cfp-ijf/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/cfp-ijf/</guid>
+      <description>
+&lt;script src=&#34;/post/cfp-ijf/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Forecasting for Social Good (F4SG) aims to explore and expose how (where) forecasting can create positive societal benefits. It aims to tackle real problems in any type of organisations that prioritised the wellbeing of people and the society as a whole towards achieving the Sustainable Development Goals prioritising social foundations and ecological ceilling. It helps managers in domains such as health, humanitarian, public and third sector to improve their practices in using forecasting to support the decision-making system.
+Evidence from the first and second workshops on &lt;a href=&#34;https://www.f4sg.org/services/workshop/&#34;&gt;F4SG&lt;/a&gt; indicated that less attention has been given to research on forecasting for social good in comparison to other areas of forecasting. To address this issue, we organise a special issue of the IJF. The purpose of the special issue is to attract high quality papers that are concerned with forecasting for social good. Both papers on academic forecasting research and applications in forecasting practice are welcome. Areas of interest include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Health and healthcare&lt;/li&gt;
+&lt;li&gt;Humanitarian operations&lt;/li&gt;
+&lt;li&gt;Disaster relief&lt;/li&gt;
+&lt;li&gt;Climate change&lt;/li&gt;
+&lt;li&gt;Environment and Wildlife&lt;/li&gt;
+&lt;li&gt;Sustainability&lt;/li&gt;
+&lt;li&gt;Education&lt;/li&gt;
+&lt;li&gt;Public welfare&lt;/li&gt;
+&lt;li&gt;Fraud, collusion, and corruption&lt;/li&gt;
+&lt;li&gt;Government&lt;/li&gt;
+&lt;li&gt;Public safety and security&lt;/li&gt;
+&lt;li&gt;Poverty &amp;amp; Inequality&lt;/li&gt;
+&lt;li&gt;Social services&lt;/li&gt;
+&lt;li&gt;Wellbeing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Submission deadline : 31 December 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guidelines&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.editorialmanager.com/ijf/default.aspx&#34;&gt;Submit your paper&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://pierrepinson.com/IJF/IJFauthorguidelines.pdf&#34;&gt;Instructions for authors&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All papers will follow IJF’s double-blind refereeing process. For further information about the Special Issue, please contact the guest editors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bahmanrt.com/&#34;&gt;Dr. Bahman Rostami-Tabar&lt;/a&gt;, Cardiff University, UK&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.virginia.edu/faculty/michael-d-porter&#34;&gt;Dr. Michael D. Porter&lt;/a&gt;, University of Virginia, USA&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://student.kedge.edu/faculty-directory/mohamed-zied-babai&#34;&gt;Prof. Zied Babai&lt;/a&gt;, Kedge Business School, France&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pierrepinson.com/&#34;&gt;Prof. Pierre Pinson&lt;/a&gt;, IJF Editor in Chief, Technical University of Denmark&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forecasting and its Beneficiaries</title>
+      <link>/publication/2021-2/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting for Social Good</title>
+      <link>/publication/2021-1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F4SG workshop - Call for abstract Submissions</title>
+      <link>/post/cfp-fsg/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/cfp-fsg/</guid>
+      <description>
+&lt;script src=&#34;/post/cfp-fsg/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#important-dates&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; Important dates:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#publications&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Publications:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#keynote-speakers&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; Keynote speakers:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#organisers&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;4&lt;/span&gt; Organisers:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#about-fsg-workshop&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;5&lt;/span&gt; About FSG workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We are now accepting abstracts for oral and poster presentation at the &lt;a href=&#34;https://www.f4sg.org&#34;&gt;2&lt;sup&gt;nd&lt;/sup&gt; International Workshop on Forecasting for Social Good&lt;/a&gt; sponsored by the International Institute of Forecasters. Both abstracts on academic forecasting research and applications in forecasting practice are welcome. If you are interested, submit your in &lt;a href=&#34;https://easychair.org/my/conference?conf=f4sg#&#34;&gt;Easychair&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For poster presentation, please upload your poster in PDF format in addition to the abstract.&lt;/p&gt;
+&lt;p&gt;If you would like to organise a special session or a panel, please contact: Bahman Rostami-Tabar (&lt;a href=&#34;mailto:rostami-tabarB@cardiff.ac.uk&#34; class=&#34;email&#34;&gt;rostami-tabarB@cardiff.ac.uk&lt;/a&gt;).&lt;/p&gt;
+&lt;div id=&#34;important-dates&#34; class=&#34;section level1&#34; number=&#34;1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; Important dates:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission deadline: March 20, 2020&lt;/li&gt;
+&lt;li&gt;Notification to authors: March 27, 2020&lt;/li&gt;
+&lt;li&gt;Registration deadline: April 15, 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publications&#34; class=&#34;section level1&#34; number=&#34;2&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Publications:&lt;/h1&gt;
+&lt;p&gt;Authors of selected papers will be invited to submit full papers to be published in the following journals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;International Journal of forecasting
+A call for papers will be issued at a later date by both journals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;keynote-speakers&#34; class=&#34;section level1&#34; number=&#34;3&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Keynote speakers:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=hPpgXPMAAAAJ&amp;amp;hl=en&#34;&gt;Prof. Spyros Makridakis&lt;/a&gt;, University of Nicosia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://directory.engr.wisc.edu/ie/Faculty/Albert_Laura/&#34;&gt;Prof. Laura Albert&lt;/a&gt;, University of Wisconsin Madison&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reichlab.io/&#34;&gt;Dr. Nicholas G. Reich&lt;/a&gt;, UMass Amherst&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://centre.humdata.org/&#34;&gt;Dr. Leonardo Milano&lt;/a&gt;, Centre for Humanitarian Data, United Nations Office for the Coordination of Humanitarian Affairs (OCHA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;organisers&#34; class=&#34;section level1&#34; number=&#34;4&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; Organisers:&lt;/h1&gt;
+&lt;p&gt;General chairs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Bahman Rostami-Tabar (&lt;a href=&#34;mailto:rostami-tabarb@cardiff.ac.uk&#34; class=&#34;email&#34;&gt;rostami-tabarb@cardiff.ac.uk&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Michael Porter (&lt;a href=&#34;mailto:mdp2u@virginia.edu&#34; class=&#34;email&#34;&gt;mdp2u@virginia.edu&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prof. Zied Babai (&lt;a href=&#34;mailto:mohamed-zied.babai@kedgebs.com&#34; class=&#34;email&#34;&gt;mohamed-zied.babai@kedgebs.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;about-fsg-workshop&#34; class=&#34;section level1&#34; number=&#34;5&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;5&lt;/span&gt; About FSG workshop&lt;/h1&gt;
+&lt;p&gt;Following up on a successful workshop in Cardiff, UK and &lt;a href=&#34;https://forecasters.org/blog/2018/04/12/ijf-forecasting-for-social-good/&#34;&gt;International Journal of Forecasting’s special issue on Forecasting for Social Good&lt;/a&gt; we are pleased to announce the 2nd biannual Workshop on Forecasting for Social Good in 11-12 June 2020 at Kedge Business School in Bordeaux, France.&lt;/p&gt;
+&lt;p&gt;While there is a growing recognition by agencies, organizations, and governments that data-driven decision-making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice. Furthermore, the research on forecasting for social good has been relatively slow and sporadic, both in academic publications and practical applications. The goal of this workshop is thus to improve the research and practice in issues related to forecasting for social good by: facilitating interactions between practitioners, researchers, and policy makers to develop a cohesive and sustainable network of international collaborations with a focus on issues related to forecasting for social good; promoting the development of new methodology and metrics to address the specific challenges related to forecasting for social good; providing professional development to policy makers; gaining a better understanding of the available data, challenges in data acquisition, and the uncertainty present in the data used to produce forecasts; and, addressing the ethical issues related to the use of forecasting methods for problems that impact society.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/contact/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F4SG Learning Labs</title>
+      <link>/talks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LICENSE: CC-BY-SA</title>
+      <link>/license/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/license/</guid>
+      <description>&lt;p&gt;My 
+&lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
+&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

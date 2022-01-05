@@ -1,0 +1,18 @@
+{
+  "name": "F4SG Research Network",
+  "short_name": "F4SG Research Network",
+  "lang": "en-us",
+  "theme_color": "#E13D3D",
+  "background_color": "#E13D3D",
+  "icons": [{
+    "src": "/images/icon_hu50c16292b308712c1e9b53037693a920_521795_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu50c16292b308712c1e9b53037693a920_521795_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

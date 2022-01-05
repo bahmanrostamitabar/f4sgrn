@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IIF | F4SG Research Network</title>
+    <link>/tags/iif/</link>
+      <atom:link href="/tags/iif/index.xml" rel="self" type="application/rss+xml" />
+    <description>IIF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© F4SG Research Network 2022</copyright><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/pom-card.png</url>
+      <title>IIF</title>
+      <link>/tags/iif/</link>
+    </image>
+    
+    <item>
+      <title>F4SG workshop - Call for abstract Submissions</title>
+      <link>/post/cfp-fsg/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/cfp-fsg/</guid>
+      <description>
+&lt;script src=&#34;/post/cfp-fsg/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#important-dates&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; Important dates:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#publications&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Publications:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#keynote-speakers&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; Keynote speakers:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#organisers&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;4&lt;/span&gt; Organisers:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#about-fsg-workshop&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;5&lt;/span&gt; About FSG workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We are now accepting abstracts for oral and poster presentation at the &lt;a href=&#34;https://www.f4sg.org&#34;&gt;2&lt;sup&gt;nd&lt;/sup&gt; International Workshop on Forecasting for Social Good&lt;/a&gt; sponsored by the International Institute of Forecasters. Both abstracts on academic forecasting research and applications in forecasting practice are welcome. If you are interested, submit your in &lt;a href=&#34;https://easychair.org/my/conference?conf=f4sg#&#34;&gt;Easychair&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For poster presentation, please upload your poster in PDF format in addition to the abstract.&lt;/p&gt;
+&lt;p&gt;If you would like to organise a special session or a panel, please contact: Bahman Rostami-Tabar (&lt;a href=&#34;mailto:rostami-tabarB@cardiff.ac.uk&#34; class=&#34;email&#34;&gt;rostami-tabarB@cardiff.ac.uk&lt;/a&gt;).&lt;/p&gt;
+&lt;div id=&#34;important-dates&#34; class=&#34;section level1&#34; number=&#34;1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; Important dates:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission deadline: March 20, 2020&lt;/li&gt;
+&lt;li&gt;Notification to authors: March 27, 2020&lt;/li&gt;
+&lt;li&gt;Registration deadline: April 15, 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;publications&#34; class=&#34;section level1&#34; number=&#34;2&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Publications:&lt;/h1&gt;
+&lt;p&gt;Authors of selected papers will be invited to submit full papers to be published in the following journals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;International Journal of forecasting
+A call for papers will be issued at a later date by both journals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;keynote-speakers&#34; class=&#34;section level1&#34; number=&#34;3&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; Keynote speakers:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=hPpgXPMAAAAJ&amp;amp;hl=en&#34;&gt;Prof. Spyros Makridakis&lt;/a&gt;, University of Nicosia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://directory.engr.wisc.edu/ie/Faculty/Albert_Laura/&#34;&gt;Prof. Laura Albert&lt;/a&gt;, University of Wisconsin Madison&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reichlab.io/&#34;&gt;Dr. Nicholas G. Reich&lt;/a&gt;, UMass Amherst&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://centre.humdata.org/&#34;&gt;Dr. Leonardo Milano&lt;/a&gt;, Centre for Humanitarian Data, United Nations Office for the Coordination of Humanitarian Affairs (OCHA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;organisers&#34; class=&#34;section level1&#34; number=&#34;4&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; Organisers:&lt;/h1&gt;
+&lt;p&gt;General chairs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Bahman Rostami-Tabar (&lt;a href=&#34;mailto:rostami-tabarb@cardiff.ac.uk&#34; class=&#34;email&#34;&gt;rostami-tabarb@cardiff.ac.uk&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Michael Porter (&lt;a href=&#34;mailto:mdp2u@virginia.edu&#34; class=&#34;email&#34;&gt;mdp2u@virginia.edu&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prof. Zied Babai (&lt;a href=&#34;mailto:mohamed-zied.babai@kedgebs.com&#34; class=&#34;email&#34;&gt;mohamed-zied.babai@kedgebs.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;about-fsg-workshop&#34; class=&#34;section level1&#34; number=&#34;5&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;5&lt;/span&gt; About FSG workshop&lt;/h1&gt;
+&lt;p&gt;Following up on a successful workshop in Cardiff, UK and &lt;a href=&#34;https://forecasters.org/blog/2018/04/12/ijf-forecasting-for-social-good/&#34;&gt;International Journal of Forecasting’s special issue on Forecasting for Social Good&lt;/a&gt; we are pleased to announce the 2nd biannual Workshop on Forecasting for Social Good in 11-12 June 2020 at Kedge Business School in Bordeaux, France.&lt;/p&gt;
+&lt;p&gt;While there is a growing recognition by agencies, organizations, and governments that data-driven decision-making tools, like forecasting models, can offer significant improvements to the societies they are working to improve, there is not a cohesive body of research that offers guidance on how to best implement, understand, use, and evaluate forecasting methods for societal impact in practice. Furthermore, the research on forecasting for social good has been relatively slow and sporadic, both in academic publications and practical applications. The goal of this workshop is thus to improve the research and practice in issues related to forecasting for social good by: facilitating interactions between practitioners, researchers, and policy makers to develop a cohesive and sustainable network of international collaborations with a focus on issues related to forecasting for social good; promoting the development of new methodology and metrics to address the specific challenges related to forecasting for social good; providing professional development to policy makers; gaining a better understanding of the available data, challenges in data acquisition, and the uncertainty present in the data used to produce forecasts; and, addressing the ethical issues related to the use of forecasting methods for problems that impact society.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

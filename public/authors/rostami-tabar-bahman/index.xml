@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rostami-Tabar Bahman | F4SG Research Network</title>
+    <link>/authors/rostami-tabar-bahman/</link>
+      <atom:link href="/authors/rostami-tabar-bahman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rostami-Tabar Bahman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© F4SG Research Network 2022</copyright><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/pom-card.png</url>
+      <title>Rostami-Tabar Bahman</title>
+      <link>/authors/rostami-tabar-bahman/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting and its Beneficiaries</title>
+      <link>/publication/2021-2/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting for Social Good</title>
+      <link>/publication/2021-1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
