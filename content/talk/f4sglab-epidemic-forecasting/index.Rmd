@@ -3,8 +3,8 @@ title: Data-driven Computational Epidemic Forecasting (with applications in R)
 draft: false
 event: "F4SG Learning Labs"
 event_url: "https://f4sgrn.netlify.app/talks/"
-#url_slides: "/slides/isf2021.html"
-#url_video: ""
+url_slides: "https://adityalab.cc.gatech.edu/workshops/21-12-01-f4sg-workshop-epi-forecasting.pdf"
+url_video: "https://youtu.be/VCiDhRxNxgc"
 
 location: Virtual
 summary: "A workshop on Epidemic forecasting research and practice"
@@ -22,7 +22,7 @@ tags:
   - Epidemic
   - forecasting
   - R
-lastmod: '2021-11-07T18:45:00'
+lastmod: '2022-01-04T18:45:00'
 featured: no
 image:
   caption: ''
