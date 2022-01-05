@@ -4,8 +4,8 @@ draft: false
 event: "F4SG Learning Labs"
 event_url: "https://f4sgrn.netlify.app/talks/"
 url_slides: "https://adityalab.cc.gatech.edu/workshops/21-12-01-f4sg-workshop-epi-forecasting.pdf"
-url_video: "https://youtu.be/VCiDhRxNxgc"
-url_code: "https://github.com/AdityaLab/f4sg-epi-workshop"
+url_video: "https://www.youtube.com/watch?v=VCiDhRxNxgc"
+url_code: "https://www.github.com/AdityaLab/f4sg-epi-workshop"
 
 location: Virtual
 summary: "A workshop on Epidemic forecasting research and practice"
