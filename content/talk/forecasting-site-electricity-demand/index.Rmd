@@ -1,5 +1,5 @@
 ---
-title: Forecasting site electricity demand to decarbonize the built environment (with applications in Python)
+title: The role of forecasting electricity demand in societal decarbonization (with applications in Python)
 draft: false
 event: "F4SG Learning Labs"
 event_url: "https://f4sgrn.netlify.app/talks/"
@@ -7,7 +7,7 @@ event_url: "https://f4sgrn.netlify.app/talks/"
 #url_video: ""
 
 location: Virtual
-summary: "Forecasting site electricity demand to decarbonize the built environment"
+summary: "This talk will provide an overview of the critical role electricity demand forecasting is set to play in societal decarbonization. We will cover some of the core theory behind electricity demand forecasting, and results from recent competitions. Using data at multiple aggregation levels (building, district, country) the talk will be followed by a hands on coding session, where we will show how to create and benchmark different types of electricity forecast algorithms."
 
 
 # Talk start and end times.
@@ -33,17 +33,19 @@ image:
 projects: []
 ---
 
+This talk will provide an overview of the critical role electricity demand forecasting is set to play in societal decarbonization. We will cover some of the core theory behind electricity demand forecasting, and results from recent competitions. Using data at multiple aggregation levels (building, district, country) the talk will be followed by a hands on coding session, where we will show how to create and benchmark different types of electricity forecast algorithms.
+
 ## Date/time/location
 
-- **Date:** Monday 14 March 2022
+- **Date:** Monday 21 March 2022
 - **Time:** 15.00-17.00 [CET Time](https://time.is/CET), 14.00-16.00 (London)
 - **Location:** Virtual/Zoom
 
-## Register for free
+## Registeration
 
-You need to register to receive the Zoom link and attend the workshop by Monday 7 March 2022.
+You need to register to receive the Zoom link and attend the workshop.
 
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLScJvj2t7KHB35imK77TFdJYTYcjSBNCIGFMGgdcdCdq8uY8zA/viewform)
+[Register here](https://learn.zoom.us/meeting/register/u5IsfuytqjMiHNyrhYarOuZ4DazkxShzQm0t)
 
 ## Instructors
 
@@ -65,11 +67,11 @@ You need to register to receive the Zoom link and attend the workshop by Monday 
  
 Participants will be able to:
 
-* Identify modeling approaches and their use in practice;
+* Identify forecasting approaches and their use in predicting electricity demand in practice.
 
-* Distinguish a diverse set of challenges in forecasting electricity demand at multiple scales and how these relate to decision making processes;
+* Distinguish a diverse set of challenges in forecasting electricity demand at multiple scales and how these relate to decision making processes.
 
-* Recognize research directions and better identify numerous sources of open-source electricity datasets;
+* Recognize research directions and better identify numerous sources of open-source electricity datasets.
 
 * Leverage software for modeling, data acquisition and processing, and evaluation.
 
@@ -83,7 +85,13 @@ Participants will be able to:
  
 ## Outline (2hrs)
 
-TBD
+The lab session is planned in the form of Jupyter notebooks (using Python)
+
+* Getting familiar with electricity demand data (15 minutes)
+
+* Creating baseline forecasts using the Darts library (15 minutes)
+
+* Creating regression models to predict electricity demand (15 minutes)
 
 
 **[Join Forecasting for Social Good email list](http://eepurl.com/hMFA-9)  to stay informed about upcoming events  **
