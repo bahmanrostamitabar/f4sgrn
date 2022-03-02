@@ -12,8 +12,8 @@ summary: "This talk will provide an overview of the critical role electricity de
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-14T15:00:00"
-date_end: "2022-03-14T17:00:00"
+date: "2022-03-21T14:00:00"
+date_end: "2022-03-21T16:00:00"
 all_day: false
 publishdate: "2021-11-16T10:00:00"
 
@@ -39,9 +39,9 @@ This talk will provide an overview of the critical role electricity demand forec
 
 - **Date:** Monday 21 March 2022
 - **Time:** 15.00-17.00 [CET Time](https://time.is/CET), 14.00-16.00 (London)
-- **Location:** Virtual/Zoom
 
-## Registeration
+
+## Registeration & Zoom Link
 
 You need to register to receive the Zoom link and attend the workshop.
 
