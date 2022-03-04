@@ -1,7 +1,7 @@
 ---
 title: Call for abstracts and invited sessions- F4SG workshop 2022 (with ISF 2022 )
 author: Bahman Rostami-Tabar
-date: '2022-09-01'
+date: '2022-03-01'
 slug: CFA-F4SG
 summary: call to submit an abstract or proposals to organize an invited session at the next Forecasting for Social Good (F4SG) workshop, in Oxford, England.
 categories:
