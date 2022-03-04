@@ -1,0 +1,117 @@
+---
+title: Call for abstracts and invited sessions- F4SG workshop 2022 (with ISF 2022 )
+author: Bahman Rostami-Tabar
+date: '2022-09-01'
+slug: CFA-F4SG
+summary: call to submit an abstract or proposals to organize an invited session at the next Forecasting for Social Good (F4SG) workshop, in Oxford, England.
+categories:
+  - Call for abstracts
+tags:
+  - workshop
+  - forecasting
+  - social good
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: false
+    toc_depth: 1
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+This is a call to submit an abstract or proposals to organize an invited
+session at the next Forecasting for Social Good (F4SG) workshop, in
+Oxford, England.
+
+The F4SG workshop is planned to be held in-person during the
+International Symposium on Forecasting, ISF 2022. This will be also an
+opportunity for F4SG participants to benefit from a diverse range of
+talks on theory and the practice of forecasting in other areas.
+
+The F4SG workshop will be organised in 2 parts:
+
+1.  Part 1 (Sunday 10 July 2022): a dedicated day to F4SG featured
+    talks, 1 panel discussion, 2 invited sessions, F4SG activities and
+    networking
+
+2.  Part 2 (Monday 11- Tuesday 12 July 2022): Invited sessions during
+    ISF-2022 (Nonparallel sessions)
+
+## What is an invited session?
+
+An invited session consists of 2-3 talks around a specific theme. You
+are allowed to be one of the speakers in a session you organize
+(although it is not necessary). All you would need to do is send us the
+proposed theme and invite 2-3 speakers to speak on the related topic.
+The length of each invited talk should be about 20 minutes. Areas of
+interest include, but are not limited to:
+
+-   Health and healthcare
+
+-   Humanitarian operations
+
+-   Disaster relief
+
+-   Climate change
+
+-   Environment and Wildlife
+
+-   Sustainability
+
+-   Ethic, bias & fairness
+
+-   Education
+
+-   Public welfare
+
+-   Fraud, collusion, and corruption
+
+-   Government
+
+-   Public safety and security
+
+-   Poverty & Inequality
+
+-   Social services
+
+-   Wellbeing
+
+    **Important dates & submission**
+
+The deadline for submitting individual abstracts and invited session is
+25 March 2022.
+
+**For the invited session, please provide us with the following
+information:**
+
+-   Notification that you will organize a session and session topic
+
+-   Names of speakers
+
+-   Schedule preference
+
+-   Title and Abstracts
+
+**For the individual abstracts**
+
+Please send a title, abstract and the name of speaker.
+
+Please send your abstracts or proposals to organise an invited session
+to the organising committee.
+
+Thank you for your consideration,
+
+F4SG workshop organizers, 2022
+
+-   Buket Cilali, University of Oklahama (Email:
+    [buket.cilali\@ou.edu](mailto:buket.cilali@ou.edu){.email})
+
+-   Ahmed Aziz Ezzat, Rutgers, The State University of NJ, (Email:
+    [aziz.ezzat\@rutgers](mailto:aziz.ezzat@rutgers){.email})
+
+-   Michael Porter, University of Virginia, (Email:
+    [mdp2u\@virginia.edu](mailto:mdp2u@virginia.edu){.email})
+
+-   Bahman Rostami-Tabar, Cardiff University (Email:
+    [rostami-tabarb\@cardiff.ac.uk](mailto:rostami-tabarb@cardiff.ac.uk){.email})
