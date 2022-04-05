@@ -34,7 +34,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: pdf/Forecasting_site_electricity_demand.pdf
+  url: "pdf/Forecasting_site_electricity_demand.pdf"
 - icon: github
   icon_pack: fab
   name: materials
