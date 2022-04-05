@@ -30,7 +30,19 @@ image:
   caption: ''
   focal_point: 'center'
   preview_only: no
-projects: []
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: pdf/Forecasting_site_electricity_demand.pdf
+- icon: github
+  icon_pack: fab
+  name: materials
+  url: https://github.com/hussainkazmi/F4SG
+- icon: play-circle
+  icon_pack: fab
+  name: video
+  url: https://www.youtube.com/watch?v=GqVj-t66O24
 ---
 
 This talk will provide an overview of the critical role electricity demand forecasting is set to play in societal decarbonization. We will cover some of the core theory behind electricity demand forecasting, and results from recent competitions. Using data at multiple aggregation levels (building, district, country) the talk will be followed by a hands on coding session, where we will show how to create and benchmark different types of electricity forecast algorithms.
